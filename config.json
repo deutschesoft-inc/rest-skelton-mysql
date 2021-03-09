@@ -1,0 +1,9 @@
+{
+  "dbhost": "localhost",
+  "dbport": 3306,
+  "dbuser": "db_user",
+  "dbpass": "db_pass",
+  "dbname": "database",
+  "sslsup": "http",
+  "secret": "SY)%FPueJ$32$At5%F!TF!nCzK9b^(R!Nk1X(dlResZyw*(R3If5N57oRcjflAQ1hRi%KXSqLD7s&s0t0IoCTAe3YTayxU2qLQPP@CDdvAXF41fYpH$7)6$e4*rjswg0(7~2bDOMZLYB*Pj0lcZPaJmXPe8p)0PTK&wo9HPJ^OdTPC$9)VwXVsUkO4iU2YmQLZFD1vUN4S0FFa0(n(ZjYjOH#VPWC(ByvqD7*KHiI4Ts1^N&Vd@1SpgOrs"
+}
